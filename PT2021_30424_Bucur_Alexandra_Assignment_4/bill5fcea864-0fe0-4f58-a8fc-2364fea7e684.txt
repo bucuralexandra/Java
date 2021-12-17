@@ -1,0 +1,7 @@
+OrderID 5fcea864-0fe0-4f58-a8fc-2364fea7e684
+clientID=ef468876-cb73-4032-9b53-0f6fff7155e2
+orderDate=25/05/2021 12:47:35
+
+title= Sweet Pickles price=12
+title= Kale with Sauteed Apple and Onion price=80
+Total cost : 92

@@ -1,0 +1,6 @@
+Order 5ace7c39-3856-4cd7-8123-117adce46d83
+clientID=d5eb4641-3320-496f-9599-3233b9d6d4df
+orderDate=2021-05-23
+title= Sautéed Chicken Breasts With Country Ham and Sage Sauce price=54
+title= Skillet Cornbread With Chives price=47
+Total cost : 101

@@ -1,0 +1,7 @@
+Order d5c9e420-4402-4c81-99c5-6efd2c40005c
+clientID=df3a1477-f69b-4705-9420-73da43f7fd6d
+orderDate=2021-05-23
+title= Sautéed Chicken Breasts With Country Ham and Sage Sauce price=54
+title= Skillet Cornbread With Chives price=47
+title= Grilled Chicken Moroccan Style price=63
+Total cost : 164

@@ -1,0 +1,8 @@
+OrderID d946049a-beb6-4e16-a401-8aaa23998cae
+clientID=1283a245-b1ad-4129-8ebe-6df668a4dcc4
+orderDate=25/05/2021 12:52:56
+
+title= Sweet Pickles price=12
+title= Berry-Yogurt Smoothie price=17
+title= Grilled Chicken Moroccan Style price=63
+Total cost : 92

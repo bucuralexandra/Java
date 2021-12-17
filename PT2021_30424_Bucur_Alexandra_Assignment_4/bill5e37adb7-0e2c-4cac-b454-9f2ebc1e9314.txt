@@ -1,0 +1,6 @@
+Order 5e37adb7-0e2c-4cac-b454-9f2ebc1e9314
+clientID=eea1ab7f-ffbf-48fd-9058-97cdb1241ef1
+orderDate=2021-05-23
+title= Skillet Cornbread With Chives price=47
+title= Grilled Chicken Moroccan Style price=63
+Total cost : 110

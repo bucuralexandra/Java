@@ -1,0 +1,8 @@
+OrderID 779989e9-f90d-47a4-abfa-f712f34e4f2c
+clientID=ef468876-cb73-4032-9b53-0f6fff7155e2
+orderDate=24/05/2021 23:06:44
+
+title= Skillet Cornbread With Chives price=47
+title= Grilled Chicken Moroccan Style price=63
+title= Honey Walnuts price=80
+Total cost : 190

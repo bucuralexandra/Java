@@ -1,0 +1,6 @@
+Order 2967db86-2c81-4917-b748-1194bb295510
+clientID=cae3da77-4450-4ac7-8afd-36b2ea27072e
+orderDate=java.util.GregorianCalendar[time=1621858959862,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Europe/Bucharest",offset=7200000,dstSavings=3600000,useDaylight=true,transitions=136,lastRule=java.util.SimpleTimeZone[id=Europe/Bucharest,offset=7200000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=2,startMonth=2,startDay=-1,startDayOfWeek=1,startTime=3600000,startTimeMode=2,endMode=2,endMonth=9,endDay=-1,endDayOfWeek=1,endTime=3600000,endTimeMode=2]],firstDayOfWeek=2,minimalDaysInFirstWeek=4,ERA=1,YEAR=2021,MONTH=4,WEEK_OF_YEAR=21,WEEK_OF_MONTH=4,DAY_OF_MONTH=24,DAY_OF_YEAR=144,DAY_OF_WEEK=2,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=3,HOUR_OF_DAY=15,MINUTE=22,SECOND=39,MILLISECOND=862,ZONE_OFFSET=7200000,DST_OFFSET=3600000]
+title= Grilled Chicken Moroccan Style price=63
+title= Honey Walnuts price=80
+Total cost : 143

@@ -1,0 +1,6 @@
+Order b96a9d86-3368-403a-8557-157b27fc50e0
+clientID=f23cc758-c9da-44b5-a4c1-5a4a7cb2608b
+orderDate=2021-05-23
+title= Kale with Sauteed Apple and Onion price=80
+title= Skillet Cornbread With Chives price=47
+Total cost : 127

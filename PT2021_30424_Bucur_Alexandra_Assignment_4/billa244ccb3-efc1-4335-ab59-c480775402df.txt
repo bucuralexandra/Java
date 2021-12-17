@@ -1,0 +1,11 @@
+Order a244ccb3-efc1-4335-ab59-c480775402df
+clientID=b9f258a9-6061-48d2-829e-9f8145ead25c
+orderDate=2021-05-23
+title= Honey Walnuts price=80
+Meniu de copii
+title= Berry-Yogurt Smoothie price=17
+title= Kale with Sauteed Apple and Onion price=80
+title= Persimmon Cake with Cream Cheese Icing price=39
+
+title= Lapteprice=6
+Total cost : 222

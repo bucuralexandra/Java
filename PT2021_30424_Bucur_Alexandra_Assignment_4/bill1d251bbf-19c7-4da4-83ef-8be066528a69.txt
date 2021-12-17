@@ -1,0 +1,8 @@
+OrderID 1d251bbf-19c7-4da4-83ef-8be066528a69
+clientID=ef468876-cb73-4032-9b53-0f6fff7155e2
+orderDate=25/05/2021 12:19:23
+
+title= Candied-Fruit Pastry Cream price=38
+title= Candied-Fruit Pastry Cream price=38
+title= Candied-Fruit Pastry Cream price=38
+Total cost : 114

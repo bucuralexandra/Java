@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #7A9E9F;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.presentation.ControllerProduct">
+   <children>
+      <Pane prefHeight="400.0" prefWidth="200.0" style="-fx-background-color: #B8D8D8;">
+         <children>
+            <Button fx:id="addButton" layoutX="15.0" layoutY="32.0" mnemonicParsing="false" onAction="#button_onClickedAdd" style="-fx-background-color: #EEF5DB;" text="Add new product">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="editButton" layoutX="14.0" layoutY="74.0" mnemonicParsing="false" onAction="#button_onClicked_editProduct" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #EEF5DB;" text="Edit product">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="deleteButton" layoutX="14.0" layoutY="113.0" mnemonicParsing="false" onAction="#button_onClickedDelete" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #EEF5DB;" text="Delete product">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="viewButton" layoutX="14.0" layoutY="154.0" mnemonicParsing="false" onAction="#button_onClickedView" prefHeight="25.0" prefWidth="116.0" style="-fx-background-color: #EEF5DB;" text="View all products">
+               <font>
+                  <Font name="System Italic" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="backButton" layoutX="15.0" layoutY="355.0" mnemonicParsing="false" onAction="#button_onClicked" style="-fx-background-color: #4F6367;" text="Back" textFill="#eef5db">
+               <font>
+                  <Font name="System Italic" size="13.0" />
+               </font>
+            </Button>
+            <TextField fx:id="idTextArea" layoutX="129.0" layoutY="74.0" onKeyReleased="#handleKeyReleased" prefHeight="25.0" prefWidth="35.0" visible="false" />
+            <Label fx:id="attentionLabel" layoutX="3.0" layoutY="280.0" prefHeight="48.0" prefWidth="227.0" textFill="#fe5f55" />
+            <TextField fx:id="idDeleteField" layoutX="121.0" layoutY="113.0" onKeyReleased="#handleKeyReleasedDelete" prefHeight="25.0" prefWidth="45.0" visible="false" />
+         </children>
+      </Pane>
+      <Pane fx:id="editPane" layoutX="276.0" layoutY="46.0" prefHeight="200.0" prefWidth="278.0" style="-fx-background-color: #B8D8D8;" visible="false">
+         <children>
+            <TextField fx:id="nameField" layoutX="96.0" layoutY="34.0" style="-fx-background-color: #B8D8D8; -fx-border-color: #4F6367;" />
+            <TextField fx:id="priceField" layoutX="96.0" layoutY="72.0" style="-fx-background-color: #B8D8D8; -fx-border-color: #4F6367;" />
+            <TextField fx:id="stockField" layoutX="96.0" layoutY="114.0" style="-fx-background-color: #B8D8D8; -fx-border-color: #4F6367;" />
+            <Label layoutX="14.0" layoutY="38.0" text="Name" />
+            <Label layoutX="15.0" layoutY="76.0" text="Price" />
+            <Label layoutX="5.0" layoutY="119.0" text="Quantity in stock" />
+            <Button fx:id="updateButton" layoutX="116.0" layoutY="157.0" mnemonicParsing="false" onAction="#button_onClickedUpdate" prefHeight="25.0" prefWidth="70.0" style="-fx-background-color: #4F6367;" text="Update" textFill="#eef5db">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="insertButton" layoutX="29.0" layoutY="160.0" mnemonicParsing="false" onAction="#button_onClickedAddProduct" prefHeight="27.0" prefWidth="55.0" style="-fx-background-color: #4F6367;" text="Insert" textFill="#eef5db">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+      <TableView fx:id="productTableView" layoutX="217.0" layoutY="62.0" prefHeight="275.0" prefWidth="370.0" style="-fx-background-color: #B8D8D8;" visible="false" />
+      <Label fx:id="productLabel" layoutX="344.0" layoutY="26.0" prefHeight="25.0" prefWidth="107.0" text="Products" visible="false">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

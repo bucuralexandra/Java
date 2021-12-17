@@ -1,0 +1,10 @@
+Client: 
+name=Mihai Rus
+email=mihai@gmail.com
+phoneNumber= 0856493524
+
+Product: 
+name=Lamp
+price= 23
+Number products:2
+Total cost : 46

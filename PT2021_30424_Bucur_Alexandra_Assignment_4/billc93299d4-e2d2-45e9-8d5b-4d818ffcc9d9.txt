@@ -1,0 +1,6 @@
+Order c93299d4-e2d2-45e9-8d5b-4d818ffcc9d9
+clientID=a2358e49-5040-4b11-97d4-319c16f6663a
+orderDate=2021-05-23
+title= Sautéed Chicken Breasts With Country Ham and Sage Sauce price=54
+title= Honey Walnuts price=80
+Total cost : 134

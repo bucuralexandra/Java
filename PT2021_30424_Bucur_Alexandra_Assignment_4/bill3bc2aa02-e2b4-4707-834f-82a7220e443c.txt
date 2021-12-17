@@ -1,0 +1,12 @@
+OrderID 3bc2aa02-e2b4-4707-834f-82a7220e443c
+clientID=ef468876-cb73-4032-9b53-0f6fff7155e2
+orderDate=25/05/2021 12:48:05
+
+Meniu Compus
+title= Sweet Pickles price=12
+title= Kale with Sauteed Apple and Onion price=80
+title= Grilled Chicken Moroccan Style price=63
+title= White Chocolate-Sambuca Cream price=29
+title= ProdusNouprice=300
+
+Total cost : 484

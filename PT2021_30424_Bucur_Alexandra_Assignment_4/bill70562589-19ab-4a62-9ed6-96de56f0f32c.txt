@@ -1,0 +1,7 @@
+Order 70562589-19ab-4a62-9ed6-96de56f0f32c
+clientID=1891bef1-831b-4fb9-9a01-47e010d0d87e
+orderDate=2021-05-23
+title= Grilled Chicken Moroccan Style price=63
+title= Sweet and Sour Pickles price=12
+title= Duck Breast and Frisée Salad price=75
+Total cost : 150

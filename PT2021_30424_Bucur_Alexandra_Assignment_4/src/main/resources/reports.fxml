@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #404552;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.presentationLayer.ReportsController">
+   <children>
+      <TextArea fx:id="infoArea" layoutX="224.0" layoutY="65.0" prefHeight="289.0" prefWidth="373.0" />
+      <Button fx:id="timeButton" layoutX="14.0" layoutY="33.0" mnemonicParsing="false" onAction="#timeInterval_onAction" style="-fx-background-color: #7c818c;" text="Time interval" textFill="#fffefe" />
+      <TextField fx:id="minHText" layoutX="108.0" layoutY="33.0" prefHeight="25.0" prefWidth="65.0" visible="false" />
+      <TextField fx:id="maxHText" layoutX="108.0" layoutY="58.0" prefHeight="25.0" prefWidth="65.0" visible="false" />
+      <Button fx:id="productNumberButton" layoutX="14.0" layoutY="110.0" mnemonicParsing="false" onAction="#nrTimes_onAction" style="-fx-background-color: #7c818c;" text="Products ordered" textFill="WHITE" />
+      <Button fx:id="clientButton" layoutX="16.0" layoutY="148.0" mnemonicParsing="false" onAction="#timeTimesAndTotalCost_onAction" style="-fx-background-color: #7c818c;" text="Clients" textFill="WHITE" />
+      <Button fx:id="productsInADayButton" layoutX="10.0" layoutY="243.0" mnemonicParsing="false" onAction="#date_onAction" style="-fx-background-color: #7c818c;" text="Products ordered in a day" textFill="WHITE" />
+      <TextField fx:id="nrOfTimesText" layoutX="130.0" layoutY="135.0" prefHeight="25.0" prefWidth="65.0" text="nr times" visible="false" />
+      <TextField fx:id="totalCostText" layoutX="130.0" layoutY="161.0" prefHeight="25.0" prefWidth="65.0" text="total cost" visible="false" />
+      <DatePicker fx:id="datePick" layoutX="12.0" layoutY="285.0" visible="false" />
+      <Button fx:id="generateButton" layoutX="236.0" layoutY="361.0" mnemonicParsing="false" onAction="#generateOnAction" style="-fx-background-color: #7c818c;" text="Generate" textFill="WHITE" />
+   </children>
+</AnchorPane>

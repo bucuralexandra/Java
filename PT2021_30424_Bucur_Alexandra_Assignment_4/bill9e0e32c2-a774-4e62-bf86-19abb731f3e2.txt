@@ -1,0 +1,8 @@
+Order 9e0e32c2-a774-4e62-bf86-19abb731f3e2
+clientID=1ee8fdcc-ee5a-420d-8340-f696719c7fe8
+orderDate=2021-05-23
+title= Kale with Sauteed Apple and Onion price=80
+title= Grilled Chicken Moroccan Style price=63
+title= Duck Breast and Frisée Salad price=75
+title= Zucchini Relish Wiley price=85
+Total cost : 303

@@ -1,0 +1,8 @@
+org.example
+org.example.application
+org.example.bll
+org.example.bll.validators
+org.example.connection
+org.example.DAO
+org.example.model
+org.example.presentation

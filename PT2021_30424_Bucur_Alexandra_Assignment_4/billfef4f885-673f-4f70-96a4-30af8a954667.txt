@@ -1,0 +1,5 @@
+Order fef4f885-673f-4f70-96a4-30af8a954667
+clientID=5227dd45-478b-4868-ad64-9c18ee577096
+orderDate=2021-05-23
+title= Sweet and Sour Pickles price=12
+Total cost : 12

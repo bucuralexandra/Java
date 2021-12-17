@@ -1,0 +1,10 @@
+Client: 
+name=Marius Mirauti
+email=marius@yahoo.com
+phoneNumber= 0754268976
+
+Product: 
+name=Fridge
+price= 12300
+Number products:2
+Total cost : 24600

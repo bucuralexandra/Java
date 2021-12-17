@@ -1,0 +1,10 @@
+Client: 
+name=Mihai Rus
+email=mihai@gmail.com
+phoneNumber= 0856493524
+
+Product: 
+name=Tablet
+price= 599
+Number products:1
+Total cost : 599

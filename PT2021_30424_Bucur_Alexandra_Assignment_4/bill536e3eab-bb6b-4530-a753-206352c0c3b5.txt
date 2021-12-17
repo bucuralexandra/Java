@@ -1,0 +1,5 @@
+Order 536e3eab-bb6b-4530-a753-206352c0c3b5
+clientID=5227dd45-478b-4868-ad64-9c18ee577096
+orderDate=2021-05-23
+title= Berry-Yogurt Smoothie price=17
+Total cost : 17

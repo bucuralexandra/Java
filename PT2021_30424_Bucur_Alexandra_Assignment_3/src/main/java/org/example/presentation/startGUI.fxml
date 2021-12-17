@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="251.0" prefWidth="367.0" style="-fx-background-color: #7A9E9F;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.presentation.ControllerStart">
+   <children>
+      <Button fx:id="clientButton" layoutX="82.0" layoutY="22.0" mnemonicParsing="false" onAction="#button_OnClicked" prefHeight="55.0" prefWidth="203.0" style="-fx-background-color: #EEF5DB;" text="Client Management">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="orderButton" layoutX="82.0" layoutY="173.0" mnemonicParsing="false" onAction="#button_OnClicked" prefHeight="55.0" prefWidth="203.0" style="-fx-background-color: #EEF5DB;" text="Order Management">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="productButton" layoutX="82.0" layoutY="97.0" mnemonicParsing="false" onAction="#button_OnClicked" prefHeight="55.0" prefWidth="203.0" style="-fx-background-color: #EEF5DB;" text="Product Management">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

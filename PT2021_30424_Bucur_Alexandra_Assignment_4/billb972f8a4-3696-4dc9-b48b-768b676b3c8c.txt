@@ -1,0 +1,9 @@
+Order b972f8a4-3696-4dc9-b48b-768b676b3c8c
+clientID=5227dd45-478b-4868-ad64-9c18ee577096
+orderDate=2021-05-23
+title= Banana Coconut Crunch Cake price=27
+Meniu
+title= Kale with Sauteed Apple and Onion price=80
+title= Basmati Rice with Summer Vegetable Salad price=34
+
+Total cost : 141
