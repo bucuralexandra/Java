@@ -1,0 +1,14 @@
+Problem 2
+
+Expected results:
+89.8
+79.6
+
+Actual results:
+89.8
+79.600006
+
+The difference between the 2 values is not big, the reason why the second output appears like that is 
+because we use float type for the balance field. Float type is a single-precision floating point, whereas 
+double is a double-precision type. This is why sometimes some aproximation errors might appear, minor ones
+but maybe important ones. So float is not as precise ad double type can be, but is uses less memory.

@@ -1,0 +1,27 @@
+Installing maven: http://www.mkyong.com/maven/how-to-install-maven-in-windows/
+
+For each problem generate a maven project using the following command: 
+
+mvn archetype:create -DgroupId=com.iquestgroup.ju -DartifactId=[weekN.pM] -DarchetypeArtifactId=maven-archetype-quickstart
+where N is the week number and M is the problem number. The command generates the folder structure for your project.
+
+You can add dependencies (3rd party libraries) to the generated project by modifying the generated pom.xml file.
+Adding jUnit as a dependency:
+
+	 <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.10</version>
+            <scope>test</scope>
+        </dependency>
+
+Here you can find different dependencies and the xml snippet you have to add to the pom.xml
+	http://mvnrepository.com
+
+
+You can import the generated project in your favourite IDE as a Maven project:
+	- for Intellij IDEA: File -> New project -> Import project from external model -> Maven -> Choose the folder containing pom.xml
+
+
+You've just created your first project using managed dependencies.
+Congratulations! 

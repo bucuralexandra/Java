@@ -1,0 +1,12 @@
+George, Washington, 1732, 1799
+John, Adams, 1735, 1826
+Thomas, Jefferson, 1743, 1826
+James, Madison, 1751, 1836
+James, Monroe, 1758, 1831
+John Quincy, Adams, 1767, 1848
+John Quincy, Adams, 1767, 1848
+John Quincy, Adams, 1767, 1848
+John Quincy, Adams, 1767, 1848
+John Quincy, Adams, b.1767
+Thomas, Jefferson, 1743, 1826
+James, Madison, 1751, 1836
